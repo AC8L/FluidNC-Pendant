@@ -1,7 +1,7 @@
 # FluidNC-Pendant
 Work originated from https://github.com/gjkrediet/Fluid-controller
 
-<img src="https://github.com/AC8L/FluidNC-Pendant-Private/blob/main/Photos/Front.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/FluidNC-Pendant/blob/main/Photos/Front.jpeg" width=50% height=50%>
 
 The original design by gjkrediet was intended for bluetooth, this design is for Wi-Fi version of the FluidNC. Pendant communicates with the controller through Websocket protocol on TCP port 81.
 
@@ -10,16 +10,16 @@ PCB was redesigned to hold all components to be soldered into it except the batt
 GRBL files are included for online order as well as schematics.
 
 ## Front of the PCB with soldered components
-<img src="https://github.com/AC8L/FluidNC-Pendant-Private/blob/main/Photos/PCB_Mounted.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/FluidNC-Pendant/blob/main/Photos/PCB_Mounted.jpeg" width=50% height=50%>
 
 ## Back of the PCB
-<img src="https://github.com/AC8L/FluidNC-Pendant-Private/blob/main/Photos/PCB_Back.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/FluidNC-Pendant/blob/main/Photos/PCB_Back.jpeg" width=50% height=50%>
 
 ## JST 2.0 soldered to the power switch and JST that comes with TTGO
-<img src="https://github.com/AC8L/FluidNC-Pendant-Private/blob/main/Photos/JST_and_Switch_On_Lid.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/FluidNC-Pendant/blob/main/Photos/JST_and_Switch_On_Lid.jpeg" width=50% height=50%>
 
 ## Battery is fixed behind PCB with a Kapton tape
-<img src="https://github.com/AC8L/FluidNC-Pendant-Private/blob/main/Photos/LiPo_Kapton.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/FluidNC-Pendant/blob/main/Photos/LiPo_Kapton.jpeg" width=50% height=50%>
 
 # 3D printed case
 Lid was slightly modified to hold new PCB and power switch. Depending on which tactile switches were used - 3D printed buttons can be vertically scaled/reduced in the slicer.
